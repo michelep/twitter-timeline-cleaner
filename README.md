@@ -13,6 +13,6 @@ export TWITTER_NAME='@your_twitter_name'
 
 and follow instructions how to claim a [Twitter developers account](https://developer.twitter.com/en/apply) and [how to create your app](https://developer.twitter.com/en/apps/create), needed to fetch tokens and keys to your Twitter timeline.
 
-Article in italian abount this project: [Ripulire la propria Twitter timeline](https://www.zerozone.it/tecnologia-privacy-e-sicurezza/ripulire-la-propria-twitter-timeline/19195)
+Article in italian talking about this project: [Ripulire la propria Twitter timeline](https://www.zerozone.it/tecnologia-privacy-e-sicurezza/ripulire-la-propria-twitter-timeline/19195)
 
 Work inspired by [delete-tweets](https://github.com/koenrh/delete-tweets) by Koen Rouwhorst
