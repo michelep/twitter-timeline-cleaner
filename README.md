@@ -1,8 +1,10 @@
 # Twitter timeline cleaner
 
-*Clean your Twitter timeline*
+*Keep clean your Twitter timeline*
 
-This script let you keep clean yout Twitter timeline, removing old tweets.
+**Why keep your Twitter timeline clean?** First of all, to reduce the amount of public personal information we leave in the Net infosphere. Then, to prevent a tweet from a few years ago that we've completely forgotten about from compromising our career or relationship. Of course, it's impossible to guarantee that someone hasn't saved our tweets, but removing them after some time helps minimize the risk that our thoughts and reactions could end up in the wrong hands or harm us.
+
+If I convinced you, this free script can help you in the purpose.
 
 ## Prerequisites
 
