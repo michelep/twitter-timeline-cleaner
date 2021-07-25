@@ -1,7 +1,11 @@
 # Twitter timeline cleaner
-## Clean your Twitter timeline
+
+*Clean your Twitter timeline*
+
+This script let you keep clean yout Twitter timeline, removing old tweets.
 
 ## Prerequisites
+
 Before running, remember to set these environment variables: 
 
 ```
@@ -32,3 +36,4 @@ optional arguments:
 Article in italian talking about this project: [Ripulire la propria Twitter timeline](https://www.zerozone.it/tecnologia-privacy-e-sicurezza/ripulire-la-propria-twitter-timeline/19195)
 
 Work inspired by [delete-tweets](https://github.com/koenrh/delete-tweets) by Koen Rouwhorst
+
